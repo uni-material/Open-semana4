@@ -1,0 +1,6 @@
+{
+  "footer": {
+    "intro": "Hecho con",
+    "author": "Por el equipo de desarrollo {{ author }}",
+  }
+}
